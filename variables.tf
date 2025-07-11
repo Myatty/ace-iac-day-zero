@@ -88,7 +88,7 @@ variable "azure_test_instance_size" {
 }
 
 variable "ace_ec2_key_name" {
-  default = "ACE"
+  default = "ACE-V1"
 }
 
 variable "ha_enabled" {
